@@ -6,4 +6,6 @@ Esta es un pequeño ensayo para una prueba
 
 Esta aplicación solo se hizo para mostrar un texto.
 
+<img src="./PagPrincipal.png"/>
+
 Hecho por Pedro Díaz.
